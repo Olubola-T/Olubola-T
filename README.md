@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Olubola-T
-- 👀 I’m interested in data science and machine learning, especially their applications to healthcare.
-- 🌱 I’m currently learning data science with Python.
-- 💞️ I’m looking to get a data science internship/entry-level job and collaborate on data science and machine learning projects.
+- 👋 Hi, I’m Olubola Adegbosin.
+- 👀 I’m a machine and deep learning researcher, especially interested in computer vision and its applications to healthcare.
+- 🌱 My clinical specialty is radiation and clinical oncology.
+- 🌱 The dearth of African datasets with which to train models for use in Africa particularly bugs me.
+- 🌱 I am much open to research collaborations that align with my research interests.
 - 📫 How to reach me: olubolaalamu@gmail.com 
 
 <!---
